@@ -1,18 +1,19 @@
 # UAS
 # Membuat package dan modul dengan struktur:
-✓ daftar_nilai.py berisi modul untuk:
+- ✓ daftar_nilai.py berisi modul untuk:
 tambah_data, ubah_data, hapus_data, dan
 cari_data
-✓ view_nilai.py berisi modul untuk:
+- ✓ view_nilai.py berisi modul untuk:
 cetak_daftar_nilai, cetak_hasil_pencarian
-✓ input_nilai.py berisi modul untuk:
+- ✓ input_nilai.py berisi modul untuk:
 input_data yang meminta pengguna
 memasukkan data.
-✓ main.py berisi program utama (menu
+- ✓ main.py berisi program utama (menu
 pilihan yang memanggil semua menu
 yang ada)
 ## Tampilan package dan modul 
 ![Gambar1](ss/s1.PNG)
+## Berikut tampilan progrramnnya
 ```python
 from view.input_nilai import *
 
@@ -155,6 +156,7 @@ while True:
 - diatas adalah program untuk modul main.py
 
 # Berikut tampilan hasil program ketika dijalankan
+- 
 ![Gambar2](ss/s2.PNG)
 - diatas tampilan untuk menambahkan data dengan menginputkan huruf t
 ![Gambar3](ss/s3.PNG)
