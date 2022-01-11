@@ -156,7 +156,6 @@ while True:
 - diatas adalah program untuk modul main.py
 
 # Berikut tampilan hasil program ketika dijalankan
-- 
 ![Gambar2](ss/s2.PNG)
 - diatas tampilan untuk menambahkan data dengan menginputkan huruf t
 ![Gambar3](ss/s3.PNG)
