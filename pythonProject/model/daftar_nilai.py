@@ -19,7 +19,7 @@ def ubah_data():
     nama = input("Masukkan Nama: ")
     if nama in dataMahasiswa.keys():
         nim = input_nim()
-        nilaitugas = input_nilaiTugas()
+        nilaiTugas = input_nilaiTugas()
         nilaiUts = input_nilaiUts()
         nilaiUas = input_nilaiUas()
         nilaiAkhir = (0.30 * nilaiTugas) + (0.35 * nilaiUts) + (0.35 * nilaiUas)
